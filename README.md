@@ -1,5 +1,5 @@
 # <a href="https://ivanraichev.github.io/email-template">Email-Template</a>
-Email Template
+Example Email Template
 
 - There is adaptive up to 320px
 - Written with tables
